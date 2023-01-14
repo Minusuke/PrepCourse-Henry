@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Modulo 2 Henry
+# Catalina Sanchez
+Esta es una prueba de como crear un repositorio y clonarlo en mi escritorio
